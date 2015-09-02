@@ -1,5 +1,8 @@
 /**
- * Created by Eemil Miller on 9/2/2015.
+    By Goat Party 9/2/2015
  */
 public class Kekopoly {
+    public static void main(String [] args) {
+
+    }
 }
