@@ -41,8 +41,7 @@ public class Board {
                     System.out.printf("*%12S*", topPropertyType[numFields]);
                 }
                 System.out.println();
-            }
-            if (x == 7) {
+            } else if (x == 7) {
                 for (int topRow = 0; topRow < 140; topRow++) {
                     System.out.print("*");
                 }
